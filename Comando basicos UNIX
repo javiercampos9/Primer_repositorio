@@ -1,0 +1,10 @@
+Algunos comandos básicos de UNIX son:
+
+Navegación/creación de directorios/archivos: ls cd pwd mkdir rm rmdir cp.
+Edición/visión de archivos: touch more ed vi nano.
+Procesamiento de textos: echo cat grep sort uniq sed awk tail head.
+Comparación de archivos: comm cmp diff patch.
+Administración del sistema: chmod chown ps find xargs sd w who.
+Comunicación: mail telnet ssh ftp finger rlogin.
+Shells: sh csh ksh.
+Documentación: man.
